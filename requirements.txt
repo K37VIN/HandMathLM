@@ -1,0 +1,15 @@
+langchain_community
+langchain_core
+langchain
+streamlit
+streamlit-drawable-canvas
+pytesseract
+ollama
+Pillow
+opencv-python
+langchain_ollama
+einops
+transformers
+sentencepiece
+matplotlib
+torch
